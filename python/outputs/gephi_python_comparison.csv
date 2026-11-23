@@ -1,0 +1,13 @@
+Measure,Gephi/report,Python,Comparison note
+Nodes,19.0,19.0,Exact count check
+Directed edges,79.0,79.0,Exact count check
+Directed density,0.231,0.2309941520467836,Rounded Gephi value
+Reciprocity,0.151898,0.1518987341772152,Python bonus result
+Weakly connected components,1.0,1.0,Exact count check
+Strongly connected components,16.0,16.0,Exact count check
+Diameter,2.0,2.0,Directed reachable-pair diameter; matches reported value
+Average path length,1.318965517,1.3189655172413792,Directed reachable ordered pairs; matches report
+"Average clustering (directed, unweighted)",0.526,0.5433108623477448,Closest orientation match; remaining difference requires Gephi/NetworkX implementation settings
+"Average clustering (undirected, unweighted)",,0.7706352986538745,Alternative projection; not directly comparable to directed Gephi run
+Average degree (Gephi reported convention),4.158,4.157894736842105,Matches E/N; standard directed mean total degree is 2E/N
+Average weighted degree (Gephi),2322661044.727,2322661044.7267365,Matches total edge weight divided by node count; NetworkX total in+out degree average is twice this
