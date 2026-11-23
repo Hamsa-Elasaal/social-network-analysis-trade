@@ -1,0 +1,80 @@
+Source,Source  label,Target ,Target label,Weight,Type,Type label
+24,Angola,50,Bangladesh,37836888.91,Directed,Export
+24,Angola,586,Pakistan,29346,Directed,Export
+24,Angola,699,India,4358099905,Directed,Export
+144,Sri Lanka,4,Afghanistan,729338.006,Directed,Export
+144,Sri Lanka,50,Bangladesh,239288787.9,Directed,Export
+144,Sri Lanka,64,Bhutan,186.944,Directed,Export
+144,Sri Lanka,462,Maldives,151359134.6,Directed,Export
+144,Sri Lanka,524,Nepal,3858662.476,Directed,Export
+144,Sri Lanka,586,Pakistan,75855869.69,Directed,Export
+144,Sri Lanka,699,India,886483061.2,Directed,Export
+450,Madagascar,50,Bangladesh,1717888.948,Directed,Export
+454,Malawi,50,Bangladesh,617123.242,Directed,Export
+462,Maldives,50,Bangladesh,3077310.485,Directed,Export
+480,Mauritius,50,Bangladesh,2997418.05,Directed,Export
+426,Lesotho,144,Sri Lanka,2.184,Directed,Export
+450,Madagascar,144,Sri Lanka,1358187.813,Directed,Export
+454,Malawi,144,Sri Lanka,53923.878,Directed,Export
+462,Maldives,144,Sri Lanka,1607898.446,Directed,Export
+480,Mauritius,144,Sri Lanka,136832.292,Directed,Export
+450,Madagascar,462,Maldives,30111.696,Directed,Export
+480,Mauritius,462,Maldives,1520535.881,Directed,Export
+450,Madagascar,524,Nepal,110633.642,Directed,Export
+454,Malawi,524,Nepal,305.431,Directed,Export
+426,Lesotho,586,Pakistan,3.327,Directed,Export
+450,Madagascar,586,Pakistan,3229981.629,Directed,Export
+454,Malawi,586,Pakistan,2823933.481,Directed,Export
+462,Maldives,586,Pakistan,24305.866,Directed,Export
+480,Mauritius,586,Pakistan,448093.545,Directed,Export
+426,Lesotho,699,India,103372.189,Directed,Export
+450,Madagascar,699,India,160376256.3,Directed,Export
+454,Malawi,699,India,60605804.79,Directed,Export
+462,Maldives,699,India,4172758.206,Directed,Export
+480,Mauritius,699,India,44673765.88,Directed,Export
+508,Mozambique,4,Afghanistan,139729.7,Directed,Export
+586,Pakistan,4,Afghanistan,1513045919,Directed,Export
+508,Mozambique,50,Bangladesh,3343786.3,Directed,Export
+516,Namibia,50,Bangladesh,30415.137,Directed,Export
+586,Pakistan,50,Bangladesh,778114978.3,Directed,Export
+508,Mozambique,144,Sri Lanka,43766.4,Directed,Export
+516,Namibia,144,Sri Lanka,316367.644,Directed,Export
+586,Pakistan,144,Sri Lanka,421713995.5,Directed,Export
+516,Namibia,462,Maldives,95630.098,Directed,Export
+586,Pakistan,462,Maldives,9131285.137,Directed,Export
+508,Mozambique,524,Nepal,79064.8,Directed,Export
+586,Pakistan,524,Nepal,2087172.156,Directed,Export
+508,Mozambique,586,Pakistan,4341064.8,Directed,Export
+516,Namibia,586,Pakistan,112616.838,Directed,Export
+508,Mozambique,699,India,1469230341,Directed,Export
+516,Namibia,699,India,45765363.68,Directed,Export
+586,Pakistan,699,India,16625.293,Directed,Export
+699,India,4,Afghanistan,333522625.5,Directed,Export
+710,South Africa,4,Afghanistan,3182647.802,Directed,Export
+699,India,50,Bangladesh,11317821378,Directed,Export
+710,South Africa,50,Bangladesh,182781924.1,Directed,Export
+699,India,64,Bhutan,1173228342,Directed,Export
+710,South Africa,64,Bhutan,14874.081,Directed,Export
+699,India,144,Sri Lanka,4715241964,Directed,Export
+710,South Africa,144,Sri Lanka,39086737.69,Directed,Export
+716,Zimbabwe,144,Sri Lanka,43938.362,Directed,Export
+699,India,462,Maldives,825057480.9,Directed,Export
+710,South Africa,462,Maldives,15923019.6,Directed,Export
+699,India,524,Nepal,6951283336,Directed,Export
+710,South Africa,524,Nepal,1297283.408,Directed,Export
+716,Zimbabwe,524,Nepal,1304.733,Directed,Export
+699,India,586,Pakistan,1183104667,Directed,Export
+710,South Africa,586,Pakistan,366046974.5,Directed,Export
+710,South Africa,699,India,4746403505,Directed,Export
+716,Zimbabwe,699,India,46894345.39,Directed,Export
+834,United Rep. of Tanzania,4,Afghanistan,35045.261,Directed,Export
+834,United Rep. of Tanzania,50,Bangladesh,25444645.39,Directed,Export
+894,Zambia,50,Bangladesh,13685.365,Directed,Export
+834,United Rep. of Tanzania,144,Sri Lanka,1664029.692,Directed,Export
+894,Zambia,144,Sri Lanka,870707.263,Directed,Export
+834,United Rep. of Tanzania,524,Nepal,952948.15,Directed,Export
+894,Zambia,524,Nepal,514.101,Directed,Export
+834,United Rep. of Tanzania,586,Pakistan,124818539,Directed,Export
+894,Zambia,586,Pakistan,11874478.21,Directed,Export
+834,United Rep. of Tanzania,699,India,1637027879,Directed,Export
+894,Zambia,699,India,136085280.6,Directed,Export
