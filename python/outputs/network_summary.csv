@@ -1,0 +1,14 @@
+,value
+nodes,19.0
+directed_edges,79.0
+directed_density,0.2309941520467836
+reciprocity,0.1518987341772152
+weakly_connected_components,1.0
+strongly_connected_components,16.0
+undirected_projection_density,0.4269005847953216
+directed_average_clustering_unweighted,0.5433108623477448
+directed_average_clustering_weighted,0.003938072385132469
+undirected_average_clustering,0.7706352986538745
+undirected_transitivity,0.51
+undirected_diameter,2.0
+undirected_average_shortest_path_length,1.5730994152046784
